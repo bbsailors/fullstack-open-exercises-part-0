@@ -1,4 +1,4 @@
-![Diagram](C:\Users\Administrator\Documents\GitHub\fullstack-open-exercises-part-0\images\0.5\mermaid-diagram-2023-09-02-210612.png)
+![Diagram](./images/0.5/mermaid-diagram-2023-09-02-210612.png)
 
 
 sequenceDiagram
