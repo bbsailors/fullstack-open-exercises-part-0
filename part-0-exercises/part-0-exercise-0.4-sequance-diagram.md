@@ -1,4 +1,4 @@
-![Diagram](./part-0-exercises/cabbar.png)
+![Diagram](./cabbar.png)
 
 
 sequenceDiagram
