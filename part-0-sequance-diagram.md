@@ -1,3 +1,6 @@
+![Diagram](C:\Users\Administrator\Documents\GitHub\fullstack-open-exercises-part-0)
+
+
 sequenceDiagram
     participant User
     participant Browser
