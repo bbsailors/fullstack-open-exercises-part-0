@@ -1,4 +1,4 @@
-![Diagram](./images/0.5/mermaid-diagram-2023-09-02-210612.png)
+![Diagram](./part-0-exercises/cabbar.png)
 
 
 sequenceDiagram
