@@ -1,4 +1,4 @@
-![Diagram](./cabbar.png)
+![Diagram](./images/cabbar0-4.png)
 
 
 sequenceDiagram

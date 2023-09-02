@@ -1,4 +1,4 @@
-[Diagram](mermaid-diagram-2023-09-02-221116.png)
+[Diagram](./images/cabbar0-6.png)
 
 
 sequenceDiagram
